@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="position" translatable="false">position</string>
+    <string name="title">Lodos</string>
+    <string name="search">Hangi filmi aramıştınız?</string>
+    <string name="alert_movie">Malesef bu isimde bir film bulunamadı.</string>
+</resources>

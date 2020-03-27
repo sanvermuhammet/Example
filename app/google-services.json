@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "853052678733",
+    "firebase_url": "https://example-681ce.firebaseio.com",
+    "project_id": "example-681ce",
+    "storage_bucket": "example-681ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853052678733:android:d4c90454c75f1fafc97204",
+        "android_client_info": {
+          "package_name": "com.sanver.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853052678733-ctm2tmnc9jf0fmnsistrgm0jpqtv7617.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVyD1pPbhD8rkhlDkW5Gd7-dONFULaY5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853052678733-ctm2tmnc9jf0fmnsistrgm0jpqtv7617.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
