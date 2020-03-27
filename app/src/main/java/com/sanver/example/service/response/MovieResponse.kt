@@ -52,7 +52,7 @@ data class MovieResponse(
         val actors: String? = null,
 
         @field:SerializedName("Response")
-        val response: String? = null,
+        var response: String? = null,
 
         @field:SerializedName("Type")
         val type: String? = null,

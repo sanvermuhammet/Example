@@ -25,6 +25,7 @@ class MainActivity :
         binding.searchView.setOnQueryChangeListener { oldQuery, newQuery ->
             binding.rvMovies.smoothScrollToPosition(0)
             if (newQuery.isNotEmpty()) {
+                viewModel.getMoviesLiveData.value?.data?.response="False"
                 getMovies(newQuery)
             }else{
 
